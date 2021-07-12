@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class shekSeason {
-    public static void main(String[] args) {
+    public void main2(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String str = sc.nextLine();
